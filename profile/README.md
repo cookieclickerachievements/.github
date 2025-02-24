@@ -26,63 +26,63 @@ Achievements in Cookie Clicker are rewards earned for reaching milestones and pe
 
 1. Production-Based Achievements
 
-These achievements are earned by reaching specific cookie production milestones:
+✔️ These achievements are earned by reaching specific cookie production milestones:
 
-Wake and bake – Bake 1 cookie.
+✔️ Wake and bake – Bake 1 cookie.
 
-Casual baking – Bake 1,000 cookies.
+✔️ Casual baking – Bake 1,000 cookies.
 
-Cookie monster – Bake 1 trillion cookies.
+✔️ Cookie monster – Bake 1 trillion cookies.
 
 2. Building-Based Achievements
 
-These require purchasing a certain number of buildings:
+✔️ These require purchasing a certain number of buildings:
 
-Builder – Own 100 Cursors.
+✔️ Builder – Own 100 Cursors.
 
-The old never bothered me anyway – Own 100 Grandmas.
+✔️ The old never bothered me anyway – Own 100 Grandmas.
 
-The Prestige – Own 1,000 of any building.
+✔️ The Prestige – Own 1,000 of any building.
 
 3. Upgrade Achievements
 
-Unlock these by purchasing upgrades:
+✔️ Unlock these by purchasing upgrades:
 
-Enhancer – Purchase 20 upgrades.
+✔️ Enhancer – Purchase 20 upgrades.
 
-Golden touch – Purchase a Golden Cookie upgrade.
+✔️ Golden touch – Purchase a Golden Cookie upgrade.
 
-Supreme baker – Unlock every upgrade in the game.
+✔️ Supreme baker – Unlock every upgrade in the game.
 
 4. Golden Cookie Achievements
 
-Golden Cookies provide temporary boosts and are tied to several achievements:
+✔️ Golden Cookies provide temporary boosts and are tied to several achievements:
 
-Clicking frenzy – Click 77 Golden Cookies.
+✔️ Clicking frenzy – Click 77 Golden Cookies.
 
-Lucky streak – Click 7 Golden Cookies in 30 seconds.
+✔️ Lucky streak – Click 7 Golden Cookies in 30 seconds.
 
-Elder luck – Click a Wrath Cookie.
+✔️ Elder luck – Click a Wrath Cookie.
 
 5. Prestige Achievements
 
-These are tied to ascending and resetting progress:
+✔️ These are tied to ascending and resetting progress:
 
-Reincarnation – Ascend for the first time.
+✔️ Reincarnation – Ascend for the first time.
 
-Heavenly bakery – Earn 100 heavenly chips.
+✔️ Heavenly bakery – Earn 100 heavenly chips.
 
-Beyond mortal realm – Gain 1 million prestige levels.
+✔️ Beyond mortal realm – Gain 1 million prestige levels.
 
 6. Shadow Achievements (Hidden & Hardest)
 
-These secretive, often difficult achievements add an extra layer of challenge:
+✔️ These secretive, often difficult achievements add an extra layer of challenge:
 
-True Neverclick – Bake 1 million cookies without clicking the big cookie.
+✔️ True Neverclick – Bake 1 million cookies without clicking the big cookie.
 
-Speed Baking III – Bake 1 million cookies in under 15 minutes.
+✔️ Speed Baking III – Bake 1 million cookies in under 15 minutes.
 
-Four-leaf cookie – Get 4 Golden Cookies to appear simultaneously.
+✔️ Four-leaf cookie – Get 4 Golden Cookies to appear simultaneously.
 
 ---
 ## 🚀 Tips for Unlocking Achievements Faster
